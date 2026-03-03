@@ -1,0 +1,12 @@
+🚀 Todo App 服务器启动中...
+📍 工作目录: /workspaces/MyOpenclaw
+🌐 监听地址: 0.0.0.0:3000
+✅ Todo App 服务器运行成功！
+🌐 本地访问: http://localhost:3000
+🌐 Codespace访问: https://supreme-engine-wrqvw49jqpp2v6xw-18789.app.github.dev/
+📱 移动端访问: https://supreme-engine-wrqvw49jqpp2v6xw-18789.app.github.dev/
+⏰ 启动时间: 2026/3/3 03:30:16
+🔧 监听配置: 0.0.0.0:3000
+💡 提示: 如果访问不了，请检查GitHub Codespace的端口转发配置
+[2026-03-03T03:30:34.023Z] GET /
+[2026-03-03T03:30:53.002Z] GET /

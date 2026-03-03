@@ -1,0 +1,19 @@
+{
+  "name": "Todo App Development",
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Todo App",
+      "onAutoForward": "notify"
+    }
+  },
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "todo-app/index.html",
+        "todo-app/css/styles.css",
+        "todo-app/js/app.js"
+      ]
+    }
+  }
+}
